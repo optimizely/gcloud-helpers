@@ -1,1 +1,1 @@
-git+git://github.com/GoogleCloudPlatform/gcloud-python.git@990ab5c7f2063e8147bcc56ee222836fd3d6e15b
+gcloud==0.4.0
