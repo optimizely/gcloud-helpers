@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
   name='gcloud_helpers',
-  version='0.1.0',
+  version='0.1.1',
   author='Yonatan Kogan',
   author_email='yonatan@optimizely.com',
   packages=['gcloud_helpers'],
